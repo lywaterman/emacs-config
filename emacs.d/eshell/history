@@ -1,0 +1,8 @@
+ls
+setq foobar (eshell-command-result "date")
+foobar
+(setq foobar (eshell-command-result "date"))
+foobar
+ls
+vim
+ls
